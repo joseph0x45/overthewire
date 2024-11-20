@@ -1,6 +1,5 @@
-# overthewire
-https://overthewire.org/wargames/bandit/bandit0.html
+# Overthewire
+Ce site contient des infos et ressources sur les differents jeux de [Overthewire](https://overthewire.org/wargames)
 
-```sh
-echo test
-```
+## Liens vers les pages concernant chaque jeu:
+- [Bandit](./bandit/)
