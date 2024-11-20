@@ -11,12 +11,3 @@ Pour ce niveau on doit se connecter a un server avec SSH.
     ssh username@host -p &lt;port&gt;
   </code></pre>
 </details>
-
-<details>
-<summary>Solution</summary>
-
-```sh
-ssh username@host -p <port>
-```
-
-</details>
